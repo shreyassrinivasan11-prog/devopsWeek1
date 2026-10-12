@@ -1,2 +1,1 @@
-echo Hello DEVOPS week1
-
+echo Hello DEVOPS week1 - second version
